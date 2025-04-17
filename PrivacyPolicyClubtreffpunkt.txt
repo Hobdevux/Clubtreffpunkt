@@ -1,0 +1,25 @@
+Privacy Policy for the "Clubtreffpunkt" Discord Bot
+
+This Privacy Policy describes how the "Clubtreffpunkt" Discord bot handles data.
+
+1. Data Collection
+The bot may collect the following data:
+- Message content (only when commands are used,such as "!emoji hinzufügen")
+- User ID (to identify the user who used a command)
+- Server ID and channel ID (to handle commands appropriately)
+
+No sensitive personal data is collected. No data is stored permanently or shared with third parties.
+
+2. Data Storage
+The bot does NOT store any data in a database or file outside of runtime. All data (e.g., the emoji list) is stored temporarily in memory and is lost when the bot is restarted.
+
+3. Third Parties
+No data is shared with third-party services or external APIs.
+
+4. Your Rights
+Since no personal data is stored long-term, there's no data to request or delete. If you have questions, contact the bot developer @just4marie
+
+5. Changes
+This Privacy Policy may be updated from time to time. Users will be informed via Discord if significant changes are made.
+
+Last updated: April 17, 2025

@@ -1,0 +1,22 @@
+Terms of Use for the "Clubtreffpunkt" Discord Bot
+
+By using the "Clubtreffpunkt" bot on your Discord server, you agree to the following terms:
+
+1. Usage
+- The bot is provided as-is and may be used on any Discord server.
+- Users are responsible for using the bot in accordance with Discord's Terms of Service and Community Guidelines.
+
+2. Limitations
+- The bot may be unavailable during maintenance or downtime.
+- The developer is not responsible for misuse or issues caused by the bot.
+
+3. Data Usage
+The bot may temporarily process messages to handle commands (e.g., adding/removing emojis). No data is stored long-term or shared with third parties.
+
+4. Updates
+The bot may be updated at any time to fix bugs, add features, or change functionality.
+
+5. Termination
+The developer may disable or remove the bot from servers at any time, especially in cases of abuse.
+
+Last updated: April 17, 2025
